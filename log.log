@@ -1,0 +1,469 @@
+INFO [ Server.Servidor] (15/09/2022 00:20:57):  Entro en el while
+INFO [ Server.Thread.Hilo] (15/09/2022 00:21:33):  Puerto cliente de salida: 56557
+INFO [ Server.Thread.Hilo] (15/09/2022 00:21:33):  Puerto servidor de entrada: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 00:21:33):  Termino el hilo con el puerto: 9000
+INFO [ Client.Cliente] (15/09/2022 00:21:33):  Recibido: {1=Juan Perez, 2=Maria Ramirez, 3=Ramona Rios, 4=Pablo Torres, 5=Ramon Florentin}
+INFO [ Server.Servidor] (15/09/2022 05:25:24):  Entro en el while
+INFO [ Server.Thread.Hilo] (15/09/2022 05:25:35):  Puerto cliente de salida: 52800
+INFO [ Server.Thread.Hilo] (15/09/2022 05:25:35):  Puerto servidor de entrada: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:25:36):  Termino el hilo con el puerto: 9000
+INFO [ Client.Cliente] (15/09/2022 05:25:36):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 4=ramon ramires, 5=Pablo Paiva, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres}
+INFO [ Server.Servidor] (15/09/2022 05:30:37):  Entro en el while
+INFO [ Server.Thread.Hilo] (15/09/2022 05:30:46):  Puerto cliente de salida: 52806
+INFO [ Server.Thread.Hilo] (15/09/2022 05:30:46):  Puerto servidor de entrada: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:30:46):  Termino el hilo con el puerto: 9000
+INFO [ Client.Cliente] (15/09/2022 05:30:46):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 4=ramon ramires, 5=Pablo Paiva, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres}
+INFO [ Views.VentanaPrincipal] (15/09/2022 05:31:43):  Creado: Raul De Luque
+INFO [ Client.Cliente] (15/09/2022 05:31:43):  Enviando contacto: Raul De Luque
+INFO [ Client.Cliente] (15/09/2022 05:31:43):  Esperando respuesta...
+INFO [ Server.Servidor] (15/09/2022 05:31:43):  Entro en el while
+INFO [ Server.Thread.Hilo] (15/09/2022 05:31:43):  Puerto cliente de salida: 52807
+INFO [ Server.Thread.Hilo] (15/09/2022 05:31:43):  Puerto servidor de entrada: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:31:43):  Dato recibido: Raul De Luque
+INFO [ Client.Cliente] (15/09/2022 05:31:43):  Recibido: Raul De Luque
+INFO [ Server.Thread.Hilo] (15/09/2022 05:31:43):  Termino el hilo con el puerto: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:31:46):  Puerto cliente de salida: 52808
+INFO [ Server.Thread.Hilo] (15/09/2022 05:31:46):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 05:31:46):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 4=ramon ramires, 5=Pablo Paiva, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque}
+INFO [ Server.Thread.Hilo] (15/09/2022 05:31:46):  Termino el hilo con el puerto: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:32:00):  Puerto cliente de salida: 52809
+INFO [ Server.Thread.Hilo] (15/09/2022 05:32:00):  Puerto servidor de entrada: 8000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:32:00):  Termino el hilo con el puerto: 8000
+INFO [ Views.VentanaPrincipal] (15/09/2022 05:38:34):  Creado: asdasd asdasd
+INFO [ Server.Servidor] (15/09/2022 05:38:34):  Entro en el while
+INFO [ Client.Cliente] (15/09/2022 05:38:34):  Enviando contacto: asdasd asdasd
+INFO [ Client.Cliente] (15/09/2022 05:38:34):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 05:38:34):  Puerto cliente de salida: 52816
+INFO [ Server.Thread.Hilo] (15/09/2022 05:38:34):  Puerto servidor de entrada: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:38:34):  Dato recibido: asdasd asdasd
+INFO [ Client.Cliente] (15/09/2022 05:38:34):  Recibido: asdasd asdasd
+INFO [ Server.Thread.Hilo] (15/09/2022 05:38:34):  Termino el hilo con el puerto: 5000
+INFO [ Server.Servidor] (15/09/2022 05:41:23):  Entro en el while
+INFO [ Views.VentanaPrincipal] (15/09/2022 05:41:43):  Creado: Raul Ramirez
+INFO [ Server.Servidor] (15/09/2022 05:41:43):  Entro en el while
+INFO [ Client.Cliente] (15/09/2022 05:41:43):  Enviando contacto: Raul Ramirez
+INFO [ Server.Thread.Hilo] (15/09/2022 05:41:43):  Puerto cliente de salida: 52819
+INFO [ Server.Thread.Hilo] (15/09/2022 05:41:43):  Puerto servidor de entrada: 5000
+INFO [ Client.Cliente] (15/09/2022 05:41:43):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 05:41:43):  Dato recibido: Raul Ramirez
+INFO [ Client.Cliente] (15/09/2022 05:41:43):  Recibido: Raul Ramirez
+INFO [ Server.Thread.Hilo] (15/09/2022 05:41:43):  Termino el hilo con el puerto: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:41:50):  Puerto cliente de salida: 52820
+INFO [ Server.Thread.Hilo] (15/09/2022 05:41:50):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 05:41:50):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 4=ramon ramires, 5=Pablo Paiva, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez}
+INFO [ Server.Thread.Hilo] (15/09/2022 05:41:50):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 05:43:55):  Entro en el while
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:01):  Puerto cliente de salida: 52824
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:01):  Puerto servidor de entrada: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:02):  Termino el hilo con el puerto: 9000
+INFO [ Client.Cliente] (15/09/2022 05:44:02):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 4=ramon ramires, 5=Pablo Paiva, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez}
+INFO [ Client.Cliente] (15/09/2022 05:44:04):  Enviando contacto: Pablo Paiva
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:04):  Puerto cliente de salida: 52825
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:04):  Puerto servidor de entrada: 7000
+INFO [ Client.Cliente] (15/09/2022 05:44:04):  Recibido: Pablo Paiva
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:04):  Termino el hilo con el puerto: 7000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:06):  Puerto cliente de salida: 52826
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:06):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 05:44:07):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 4=ramon ramires, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez}
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:07):  Termino el hilo con el puerto: 9000
+INFO [ Client.Cliente] (15/09/2022 05:44:12):  Enviando contacto: ramon ramires
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:12):  Puerto cliente de salida: 52827
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:12):  Puerto servidor de entrada: 7000
+INFO [ Client.Cliente] (15/09/2022 05:44:12):  Recibido: ramon ramires
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:12):  Termino el hilo con el puerto: 7000
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:13):  Puerto cliente de salida: 52828
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:13):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 05:44:13):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez}
+INFO [ Server.Thread.Hilo] (15/09/2022 05:44:13):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 06:02:16):  Entro en el while
+INFO [ Server.Thread.Hilo] (15/09/2022 06:02:24):  Puerto cliente de salida: 52842
+INFO [ Server.Thread.Hilo] (15/09/2022 06:02:24):  Puerto servidor de entrada: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 06:02:24):  Termino el hilo con el puerto: 9000
+INFO [ Client.Cliente] (15/09/2022 06:02:24):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez}
+INFO [ Client.Cliente] (15/09/2022 06:03:11):  Enviando contacto: Raul De Luque
+INFO [ Client.Cliente] (15/09/2022 06:03:11):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 06:03:11):  Puerto cliente de salida: 52843
+INFO [ Server.Thread.Hilo] (15/09/2022 06:03:11):  Puerto servidor de entrada: 6000
+INFO [ Server.Thread.Hilo] (15/09/2022 06:03:11):  Termino el hilo con el puerto: 6000
+INFO [ Server.Thread.Hilo] (15/09/2022 06:03:11):  Puerto cliente de salida: 52844
+INFO [ Server.Thread.Hilo] (15/09/2022 06:03:11):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 06:03:11):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez}
+INFO [ Server.Thread.Hilo] (15/09/2022 06:03:11):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 10:50:48):  Entro en el while
+INFO [ Views.VentanaPrincipal] (15/09/2022 10:51:53):  Creado: Camila Roa
+INFO [ Server.Servidor] (15/09/2022 10:51:53):  Entro en el while
+INFO [ Client.Cliente] (15/09/2022 10:51:53):  Enviando contacto: Camila Roa
+INFO [ Server.Thread.Hilo] (15/09/2022 10:51:53):  Puerto cliente de salida: 50558
+INFO [ Server.Thread.Hilo] (15/09/2022 10:51:53):  Puerto servidor de entrada: 5000
+INFO [ Client.Cliente] (15/09/2022 10:51:53):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 10:51:53):  Dato recibido: Camila Roa
+INFO [ Server.Thread.Hilo] (15/09/2022 10:51:53):  Termino el hilo con el puerto: 5000
+INFO [ Client.Cliente] (15/09/2022 10:51:53):  Recibido: Camila Roa
+INFO [ Server.Servidor] (15/09/2022 11:05:31):  Entro en el while
+INFO [ Server.Servidor] (15/09/2022 11:29:37):  Entro en el while
+INFO [ Server.Servidor] (15/09/2022 11:42:42):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Thread.Hilo] (15/09/2022 11:42:43):  Puerto cliente de salida: 49761
+INFO [ Server.Thread.Hilo] (15/09/2022 11:42:43):  Puerto servidor de entrada: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 11:42:43):  Termino el hilo con el puerto: 9000
+INFO [ Client.Cliente] (15/09/2022 11:42:43):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Servidor] (15/09/2022 11:42:51):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Thread.Hilo] (15/09/2022 11:42:51):  Puerto cliente de salida: 49770
+INFO [ Server.Thread.Hilo] (15/09/2022 11:42:51):  Puerto servidor de entrada: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 11:42:51):  Termino el hilo con el puerto: 9000
+INFO [ Client.Cliente] (15/09/2022 11:42:52):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Servidor] (15/09/2022 11:47:16):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:17):  Puerto cliente de salida: 49786
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:17):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 11:47:17):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Servidor] (15/09/2022 11:47:18):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:18):  Puerto cliente de salida: 49787
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:18):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 11:47:18):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Servidor] (15/09/2022 11:47:19):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:19):  Puerto cliente de salida: 49788
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:19):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 11:47:19):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Servidor] (15/09/2022 11:47:20):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:20):  Puerto cliente de salida: 49789
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:20):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 11:47:20):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:26):  Termino el hilo con el puerto: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:27):  Termino el hilo con el puerto: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:28):  Termino el hilo con el puerto: 9000
+INFO [ Server.Thread.Hilo] (15/09/2022 11:47:29):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 11:49:18):  Existen 0 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 11:49:26):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Servidor] (15/09/2022 11:49:26):  Existen 0 hilos activos...
+INFO [ Server.Thread.Hilo] (15/09/2022 11:49:26):  Puerto cliente de salida: 49790
+INFO [ Server.Thread.Hilo] (15/09/2022 11:49:26):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 11:49:26):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Servidor] (15/09/2022 11:50:55):  Existen 0 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 11:50:59):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Servidor] (15/09/2022 11:51:00):  Existen 1 hilos activos...
+INFO [ Server.Thread.Hilo] (15/09/2022 11:51:00):  Puerto cliente de salida: 49791
+INFO [ Server.Thread.Hilo] (15/09/2022 11:51:00):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 11:51:00):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Servidor] (15/09/2022 11:51:06):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Servidor] (15/09/2022 11:51:06):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 11:51:06):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 11:51:06):  Puerto cliente de salida: 49793
+INFO [ Server.Thread.Hilo] (15/09/2022 11:51:06):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 11:51:06):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Servidor] (15/09/2022 11:51:11):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 11:51:11):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Servidor] (15/09/2022 11:51:16):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 11:51:16):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 11:51:19):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 11:51:21):  Existen 1 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 11:51:21):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Servidor] (15/09/2022 11:51:21):  Existen 2 hilos activos...
+INFO [ Server.Thread.Hilo] (15/09/2022 11:51:21):  Puerto cliente de salida: 49794
+INFO [ Server.Servidor] (15/09/2022 11:51:21):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 11:51:21):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 11:51:21):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa}
+INFO [ Server.Thread.Hilo] (15/09/2022 11:51:25):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 11:51:26):  Existen 1 hilos activos...
+INFO [ Server.Thread.Hilo] (15/09/2022 11:51:40):  Termino el hilo con el puerto: 9000
+FATAL [ Client.Cliente] (15/09/2022 11:55:51): 10: Connection refused: connect:
+[Ljava.lang.StackTraceElement;@63b92e8b
+INFO [ Views.VentanaPrincipal] (15/09/2022 11:56:12):  Creado:  
+FATAL [ Client.Cliente] (15/09/2022 11:56:14): 10: Connection refused: connect:
+[Ljava.lang.StackTraceElement;@5121db9a
+INFO [ Views.VentanaPrincipal] (15/09/2022 11:56:14):  Error al guardar el contacto
+INFO [ Views.VentanaPrincipal] (15/09/2022 11:56:31):  Creado:  
+FATAL [ Client.Cliente] (15/09/2022 11:56:33): 10: Connection refused: connect:
+[Ljava.lang.StackTraceElement;@6b007614
+INFO [ Views.VentanaPrincipal] (15/09/2022 11:56:33):  Error al guardar el contacto
+INFO [ Server.Servidor] (15/09/2022 12:06:43):  Existen 0 hilos activos...
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:07:04):  Creado:  
+INFO [ Server.Servidor] (15/09/2022 12:07:04):  Hilo asignado a Crear Contacto
+INFO [ Client.Cliente] (15/09/2022 12:07:04):  Enviando contacto:  
+INFO [ Server.Thread.Hilo] (15/09/2022 12:07:04):  Puerto cliente de salida: 49820
+INFO [ Server.Thread.Hilo] (15/09/2022 12:07:04):  Puerto servidor de entrada: 5000
+INFO [ Client.Cliente] (15/09/2022 12:07:04):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 12:07:04):  Dato recibido:  
+INFO [ Client.Cliente] (15/09/2022 12:07:04):  Recibido:  
+INFO [ Server.Thread.Hilo] (15/09/2022 12:07:04):  Termino el hilo con el puerto: 5000
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:07:04):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:07:04):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:07:04):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:07:04):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:07:04):  Se ha guardado el contacto
+FATAL [ Files.FilesAdmin] (15/09/2022 12:08:27): Error array: 1:
+[Ljava.lang.StackTraceElement;@3764951d
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:08:45):  Creado:  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:08:45):  Creado:  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:08:46):  Creado:  
+FATAL [ Client.Cliente] (15/09/2022 12:08:47): 10: Connection refused: connect:
+[Ljava.lang.StackTraceElement;@4efdebe7
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:08:47):  Error al guardar el contacto
+FATAL [ Client.Cliente] (15/09/2022 12:08:47): 10: Connection refused: connect:
+[Ljava.lang.StackTraceElement;@3c14a2c1
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:08:47):  Error al guardar el contacto
+FATAL [ Client.Cliente] (15/09/2022 12:08:48): 10: Connection refused: connect:
+[Ljava.lang.StackTraceElement;@3c14a2c1
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:08:48):  Error al guardar el contacto
+FATAL [ Files.FilesAdmin] (15/09/2022 12:14:39): Error array: 1:
+[Ljava.lang.StackTraceElement;@3764951d
+INFO [ Server.Servidor] (15/09/2022 12:17:08):  Existen 0 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 12:22:26):  Existen 0 hilos activos...
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:22:35):  Creado:  
+INFO [ Server.Servidor] (15/09/2022 12:22:35):  Hilo asignado a Crear Contacto
+INFO [ Client.Cliente] (15/09/2022 12:22:35):  Enviando contacto:  
+INFO [ Server.Thread.Hilo] (15/09/2022 12:22:35):  Puerto cliente de salida: 49883
+INFO [ Server.Thread.Hilo] (15/09/2022 12:22:35):  Puerto servidor de entrada: 5000
+INFO [ Client.Cliente] (15/09/2022 12:22:35):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 12:22:35):  Dato recibido:  
+INFO [ Client.Cliente] (15/09/2022 12:22:35):  Recibido:  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:22:35):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:22:35):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:22:35):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:22:35):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:22:35):  Se ha guardado el contacto
+FATAL [ Files.FilesAdmin] (15/09/2022 12:22:52): Error array: 1:
+[Ljava.lang.StackTraceElement;@3764951d
+FATAL [ Files.FilesAdmin] (15/09/2022 12:22:59): Error array: 1:
+[Ljava.lang.StackTraceElement;@3764951d
+FATAL [ Files.FilesAdmin] (15/09/2022 12:23:33): Error array: Index 1 out of bounds for length 1:
+[Ljava.lang.StackTraceElement;@61dc03ce
+INFO [ Server.Servidor] (15/09/2022 12:23:33):  Existen 0 hilos activos...
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:23:58):  Creado:  
+INFO [ Server.Servidor] (15/09/2022 12:23:58):  Hilo asignado a Crear Contacto
+INFO [ Client.Cliente] (15/09/2022 12:23:58):  Enviando contacto:  
+INFO [ Server.Thread.Hilo] (15/09/2022 12:23:58):  Puerto cliente de salida: 49884
+INFO [ Server.Thread.Hilo] (15/09/2022 12:23:58):  Puerto servidor de entrada: 5000
+INFO [ Client.Cliente] (15/09/2022 12:23:59):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 12:23:59):  Dato recibido:  
+INFO [ Client.Cliente] (15/09/2022 12:23:59):  Recibido:  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:23:59):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:23:59):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:23:59):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:23:59):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:23:59):  Se ha guardado el contacto
+INFO [ Server.Thread.Hilo] (15/09/2022 12:24:18):  Termino el hilo con el puerto: 5000
+FATAL [ Files.FilesAdmin] (15/09/2022 12:31:29): Error array: Index 1 out of bounds for length 1:
+[Ljava.lang.StackTraceElement;@61dc03ce
+FATAL [ Server.Servidor] (15/09/2022 12:31:29): Address already in use: bind:
+[Ljava.lang.StackTraceElement;@50c8106c
+FATAL [ Server.Servidor] (15/09/2022 12:31:29): Address already in use: bind:
+[Ljava.lang.StackTraceElement;@63f433a6
+FATAL [ Server.Servidor] (15/09/2022 12:31:29): Address already in use: bind:
+[Ljava.lang.StackTraceElement;@6a6d45d1
+FATAL [ Server.Servidor] (15/09/2022 12:31:29): Address already in use: bind:
+[Ljava.lang.StackTraceElement;@3df3a30f
+FATAL [ Server.Servidor] (15/09/2022 12:31:29): Address already in use: bind:
+[Ljava.lang.StackTraceElement;@7d86e8a4
+FATAL [ Files.FilesAdmin] (15/09/2022 12:31:40): Error array: Index 1 out of bounds for length 1:
+[Ljava.lang.StackTraceElement;@61dc03ce
+INFO [ Server.Servidor] (15/09/2022 12:31:40):  Existen 0 hilos activos...
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:31:46):  Creado:  
+INFO [ Server.Servidor] (15/09/2022 12:32:49):  Existen 0 hilos activos...
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:32:55):  Creado:  
+INFO [ Server.Servidor] (15/09/2022 12:36:39):  Existen 0 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 12:37:04):  Hilo asignado a Crear Contacto
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:04):  Puerto cliente de salida: 49914
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:04):  Puerto servidor de entrada: 5000
+INFO [ Client.Cliente] (15/09/2022 12:37:04):  Enviando contacto: Alba Kkk
+INFO [ Client.Cliente] (15/09/2022 12:37:04):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:04):  Dato recibido: Alba Kkk
+INFO [ Client.Cliente] (15/09/2022 12:37:04):  Recibido: Alba Kkk
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:04):  asdsad: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:04):  referg
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:04):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:04):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:04):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:04):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:04):  Se ha guardado el contacto
+INFO [ Server.Servidor] (15/09/2022 12:37:16):  Hilo asignado a Crear Contacto
+INFO [ Client.Cliente] (15/09/2022 12:37:16):  Enviando contacto: wefweq wefwe
+INFO [ Server.Servidor] (15/09/2022 12:37:16):  Se ha llegado al limite de hilos, SocketCrear esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:16):  Puerto cliente de salida: 49915
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:16):  Puerto servidor de entrada: 5000
+INFO [ Client.Cliente] (15/09/2022 12:37:16):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:16):  Dato recibido: wefweq wefwe
+INFO [ Client.Cliente] (15/09/2022 12:37:16):  Recibido: wefweq wefwe
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:16):  weadewd: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:16):  dewf
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:16):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:16):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:16):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:16):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:16):  Se ha guardado el contacto
+INFO [ Server.Servidor] (15/09/2022 12:37:21):  Se ha llegado al limite de hilos, SocketCrear esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:23):  Termino el hilo con el puerto: 5000
+INFO [ Server.Servidor] (15/09/2022 12:37:32):  Hilo asignado a Crear Contacto
+INFO [ Server.Servidor] (15/09/2022 12:37:32):  Se ha llegado al limite de hilos, SocketCrear esperando
+INFO [ Client.Cliente] (15/09/2022 12:37:32):  Enviando contacto: dfcwef ewfwef
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:32):  Puerto cliente de salida: 49916
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:32):  Puerto servidor de entrada: 5000
+INFO [ Client.Cliente] (15/09/2022 12:37:32):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:32):  Dato recibido: dfcwef ewfwef
+INFO [ Client.Cliente] (15/09/2022 12:37:32):  Recibido: dfcwef ewfwef
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:32):  wefwe: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:32):  wefwef
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:32):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:32):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:32):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:32):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 12:37:32):  Se ha guardado el contacto
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:35):  Termino el hilo con el puerto: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 12:37:51):  Termino el hilo con el puerto: 5000
+INFO [ Server.Servidor] (15/09/2022 12:38:26):  Existen 0 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:20:30):  Existen 0 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:21:01):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Servidor] (15/09/2022 13:21:01):  Existen 1 hilos activos...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:01):  Puerto cliente de salida: 49924
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:01):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 13:21:01):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa, 13=Alba Kkk, 14=wefweq wefwe, 15=dfcwef ewfwef}
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:20):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 13:21:27):  Hilo asignado a Modificar Contacto
+INFO [ Client.Cliente] (15/09/2022 13:21:27):  Enviando contacto: Abel Trinidad
+INFO [ Client.Cliente] (15/09/2022 13:21:27):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:27):  Puerto cliente de salida: 49925
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:27):  Puerto servidor de entrada: 6000
+INFO [ Server.Servidor] (15/09/2022 13:21:27):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Servidor] (15/09/2022 13:21:27):  Existen 1 hilos activos...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:27):  Termino el hilo con el puerto: 6000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:28):  Puerto cliente de salida: 49926
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:28):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 13:21:28):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 7=pep grillo, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa, 13=Alba Kkk, 14=wefweq wefwe, 15=dfcwef ewfwef}
+INFO [ Server.Servidor] (15/09/2022 13:21:41):  Hilo asignado a Borrar Contacto
+INFO [ Client.Cliente] (15/09/2022 13:21:41):  Enviando contacto: pep grillo
+INFO [ Server.Servidor] (15/09/2022 13:21:41):  Se ha llegado al limite de hilos, SocketBorrar esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:41):  Puerto cliente de salida: 49927
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:41):  Puerto servidor de entrada: 7000
+INFO [ Client.Cliente] (15/09/2022 13:21:41):  Recibido: pep grillo
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:21:41):  Se a eliminado el contacto
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:41):  Termino el hilo con el puerto: 7000
+INFO [ Server.Servidor] (15/09/2022 13:21:42):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Servidor] (15/09/2022 13:21:42):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:21:42):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:42):  Puerto cliente de salida: 49928
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:42):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 13:21:42):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa, 13=Alba Kkk, 14=wefweq wefwe, 15=dfcwef ewfwef}
+INFO [ Server.Servidor] (15/09/2022 13:21:46):  Se ha llegado al limite de hilos, SocketBorrar esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:47):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 13:21:47):  Existen 1 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:21:48):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Servidor] (15/09/2022 13:21:48):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:21:48):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:48):  Puerto cliente de salida: 49929
+INFO [ Server.Thread.Hilo] (15/09/2022 13:21:48):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 13:21:48):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa, 13=Alba Kkk, 14=wefweq wefwe, 15=dfcwef ewfwef}
+INFO [ Server.Servidor] (15/09/2022 13:21:51):  Se ha llegado al limite de hilos, SocketBorrar esperando
+INFO [ Server.Servidor] (15/09/2022 13:21:53):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:21:53):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Servidor] (15/09/2022 13:21:56):  Se ha llegado al limite de hilos, SocketBorrar esperando
+INFO [ Server.Servidor] (15/09/2022 13:21:58):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:21:58):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Servidor] (15/09/2022 13:22:00):  Hilo asignado a Buscar Contacto
+INFO [ Client.Cliente] (15/09/2022 13:22:00):  Esperando respuesta...
+INFO [ Server.Servidor] (15/09/2022 13:22:01):  Se ha llegado al limite de hilos, SocketMandarContacto esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:01):  Puerto cliente de salida: 49930
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:01):  Puerto servidor de entrada: 8000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:01):  Termino el hilo con el puerto: 8000
+INFO [ Server.Servidor] (15/09/2022 13:22:01):  Se ha llegado al limite de hilos, SocketBorrar esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:01):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 13:22:03):  Existen 1 hilos activos...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:07):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 13:22:12):  Hilo asignado a Buscar Contacto
+INFO [ Client.Cliente] (15/09/2022 13:22:12):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:12):  Puerto cliente de salida: 49931
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:12):  Puerto servidor de entrada: 8000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:12):  Termino el hilo con el puerto: 8000
+INFO [ Server.Servidor] (15/09/2022 13:22:57):  Hilo asignado a Crear Contacto
+INFO [ Client.Cliente] (15/09/2022 13:22:57):  Enviando contacto: Ramon Gutierrez
+INFO [ Client.Cliente] (15/09/2022 13:22:57):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:57):  Puerto cliente de salida: 49933
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:57):  Puerto servidor de entrada: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:22:57):  Dato recibido: Ramon Gutierrez
+INFO [ Client.Cliente] (15/09/2022 13:22:57):  Recibido: Ramon Gutierrez
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:22:57):  Domicilio: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:22:57):  Asuncion
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:22:57):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:22:57):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:22:57):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:22:57):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:22:57):  Se ha guardado el contacto
+INFO [ Server.Thread.Hilo] (15/09/2022 13:23:16):  Termino el hilo con el puerto: 5000
+INFO [ Server.Servidor] (15/09/2022 13:23:18):  Hilo asignado a Crear Contacto
+INFO [ Client.Cliente] (15/09/2022 13:23:18):  Enviando contacto: Pedro Alvares
+INFO [ Client.Cliente] (15/09/2022 13:23:18):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:23:18):  Puerto cliente de salida: 49934
+INFO [ Server.Thread.Hilo] (15/09/2022 13:23:18):  Puerto servidor de entrada: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:23:18):  Dato recibido: Pedro Alvares
+INFO [ Client.Cliente] (15/09/2022 13:23:18):  Recibido: Pedro Alvares
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:23:18):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:23:18):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:23:18):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:23:18):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:23:18):  Se ha guardado el contacto
+INFO [ Server.Servidor] (15/09/2022 13:23:21):  Hilo asignado a Mandar Lista Contactos
+INFO [ Server.Servidor] (15/09/2022 13:23:21):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:23:21):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 13:23:21):  Puerto cliente de salida: 49935
+INFO [ Server.Thread.Hilo] (15/09/2022 13:23:21):  Puerto servidor de entrada: 9000
+INFO [ Client.Cliente] (15/09/2022 13:23:21):  Recibido: {0=Abel Trinidad, 1=Ramona Rios, 2=Jorge Martines, 3=Fernando Ocampo, 6=Maria Pereira, 8=pedro perez, 9=Luis Peres, 10=Raul De Luque, 11=Raul Ramirez, 12=Camila Roa, 13=Alba Kkk, 14=wefweq wefwe, 15=dfcwef ewfwef, 16=Ramon Gutierrez, 17=Pedro Alvares}
+INFO [ Server.Servidor] (15/09/2022 13:23:26):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:23:26):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Servidor] (15/09/2022 13:23:31):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:23:31):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Servidor] (15/09/2022 13:23:36):  Existen 2 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:23:36):  Se ha llegado al limite de hilos, SocketMandarContactos esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 13:23:37):  Termino el hilo con el puerto: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:23:40):  Termino el hilo con el puerto: 9000
+INFO [ Server.Servidor] (15/09/2022 13:23:41):  Existen 0 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:25:37):  Hilo asignado a Crear Contacto
+INFO [ Client.Cliente] (15/09/2022 13:25:37):  Enviando contacto: Julian Ramirez
+INFO [ Client.Cliente] (15/09/2022 13:25:37):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:37):  Puerto cliente de salida: 49936
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:37):  Puerto servidor de entrada: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:37):  Dato recibido: Julian Ramirez
+INFO [ Client.Cliente] (15/09/2022 13:25:37):  Recibido: Julian Ramirez
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:37):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:37):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:37):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:37):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:37):  Se ha guardado el contacto
+INFO [ Server.Servidor] (15/09/2022 13:25:39):  Hilo asignado a Crear Contacto
+INFO [ Server.Servidor] (15/09/2022 13:25:39):  Se ha llegado al limite de hilos, SocketCrear esperando
+INFO [ Client.Cliente] (15/09/2022 13:25:39):  Enviando contacto: Luisa Pereira
+INFO [ Client.Cliente] (15/09/2022 13:25:39):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:39):  Puerto cliente de salida: 49937
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:39):  Puerto servidor de entrada: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:39):  Dato recibido: Luisa Pereira
+INFO [ Client.Cliente] (15/09/2022 13:25:39):  Recibido: Luisa Pereira
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:39):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:39):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:39):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:39):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:39):  Se ha guardado el contacto
+INFO [ Server.Servidor] (15/09/2022 13:25:44):  Se ha llegado al limite de hilos, SocketCrear esperando
+INFO [ Server.Servidor] (15/09/2022 13:25:49):  Se ha llegado al limite de hilos, SocketCrear esperando
+INFO [ Server.Servidor] (15/09/2022 13:25:54):  Se ha llegado al limite de hilos, SocketCrear esperando
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:56):  Termino el hilo con el puerto: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:58):  Termino el hilo con el puerto: 5000
+INFO [ Server.Servidor] (15/09/2022 13:25:59):  Hilo asignado a Crear Contacto
+INFO [ Client.Cliente] (15/09/2022 13:25:59):  Enviando contacto: Romina Lopez
+INFO [ Client.Cliente] (15/09/2022 13:25:59):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:59):  Puerto cliente de salida: 49938
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:59):  Puerto servidor de entrada: 5000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:25:59):  Dato recibido: Romina Lopez
+INFO [ Client.Cliente] (15/09/2022 13:25:59):  Recibido: Romina Lopez
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:59):  Apellido: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:59):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:59):  Nombre: 
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:59):  
+INFO [ Views.VentanaPrincipal] (15/09/2022 13:25:59):  Se ha guardado el contacto
+INFO [ Server.Thread.Hilo] (15/09/2022 13:26:18):  Termino el hilo con el puerto: 5000
+INFO [ Server.Servidor] (15/09/2022 13:46:31):  Existen 0 hilos activos...
+INFO [ Server.Servidor] (15/09/2022 13:46:44):  Hilo asignado a Buscar Contacto
+INFO [ Server.Thread.Hilo] (15/09/2022 13:46:45):  Puerto cliente de salida: 49974
+INFO [ Server.Thread.Hilo] (15/09/2022 13:46:45):  Puerto servidor de entrada: 8000
+INFO [ Client.Cliente] (15/09/2022 13:46:45):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:46:45):  Termino el hilo con el puerto: 8000
+INFO [ Server.Servidor] (15/09/2022 13:46:50):  Hilo asignado a Buscar Contacto
+INFO [ Client.Cliente] (15/09/2022 13:46:50):  Esperando respuesta...
+INFO [ Server.Thread.Hilo] (15/09/2022 13:46:51):  Puerto cliente de salida: 49975
+INFO [ Server.Thread.Hilo] (15/09/2022 13:46:51):  Puerto servidor de entrada: 8000
+INFO [ Server.Thread.Hilo] (15/09/2022 13:46:51):  Termino el hilo con el puerto: 8000

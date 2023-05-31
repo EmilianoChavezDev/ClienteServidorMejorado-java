@@ -1,0 +1,42 @@
+<project name="Socket_TCP-Deploy" basedir="." default="run-server">
+
+	<property name="src.dir" value="src" />
+
+	<property name="build.dir" value="build" />
+	<property name="classes.dir" value="build/classes" />
+	<property name="jar.dir" value="build/jar" />
+
+	<property name="main-class" value="src" />
+	<property name="lib.dir" value="lib" />
+
+	<target name="clean">
+		<delete dir="${build.dir}" />
+	</target>
+
+	<target name="compile">
+		<mkdir dir="${classes.dir}" />
+		<mkdir dir="${jar.dir}" />
+		<javac srcdir="${src.dir}" destdir="${classes.dir}" debug="yes" includeantruntime="true">
+		</javac>
+	</target>
+
+	<target name="java-compile" depends="clean, compile">
+		<jar destfile="build/jar/Servidor.jar" basedir="build/classes">
+			<manifest>
+				<attribute name="Main-Class" value="Server.Servidor" />
+			</manifest>
+		</jar>
+		<jar destfile="build/jar/Cliente.jar" basedir="build/classes">
+			<manifest>
+				<attribute name="Main-Class" value="Client.Cliente" />
+			</manifest>
+		</jar>
+	</target>
+
+	<target name="run-server">
+		<java jar="build/jar/Servidor.jar" fork="true" />
+	</target>
+	<target name="run-client">
+		<java jar="build/jar/Cliente.jar" fork="true" />
+	</target>
+</project>
